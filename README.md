@@ -15,27 +15,27 @@
 
 <p float="left">  
 <img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/13158aa8-a4a5-4716-8488-28641c703c8b">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/84080385-521d-4e10-8e44-742b43984b0a">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/5bc0bee9-f4a7-43e1-9636-a572fab27978">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/4a840ea1-a8f0-420b-b904-5a09fc288497">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/b6af9492-f154-4f4b-b557-de33aabdbd09">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/6b44e6cb-60e5-476a-923b-4e37d43b49a4">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/c42901e1-da79-49a4-bcfa-0ef0a8146ad5">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/eefff9fd-07e6-4dee-9429-2fd903bdb4b9">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/5f03d27a-3e54-4147-a273-8ea8490b7298">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/ef5040ff-c6ce-4dcc-a97c-2252b9a4454f">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/5da0e481-6cf4-4227-9740-0fe0f9afd415">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/e90b6f6e-9ca2-496f-bebe-1298fe39ff74">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/b89df909-0235-4761-b69a-23ea2debffbe">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/38294703-b473-4655-ab8c-a66eddfa42d1  ">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/67b56f57-03a2-44fe-a1af-40f3ff6699c4">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/f0957925-af13-4c19-8f2f-48a401ae4b54">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/aae4f79d-7842-4f05-ba1c-bf426dd8a73c">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/4b681c57-24bb-463a-bae0-291fa1b9503d">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/ae34af5b-7950-4b3c-9ff5-cf0773c6810b">
 </p>
 
 
