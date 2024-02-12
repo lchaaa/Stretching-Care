@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <ImageView
+        android:id="@+id/gifImageView"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_marginBottom="10dp"
+        android:scaleType="fitXY" /> <!-- fitCenter 스케일 타입 사용 -->
+
+
+    <android.widget.Button
+        android:id="@+id/prevButton"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_toStartOf="@id/stopButton"
+        android:layout_alignTop="@id/stopButton"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/round_button"
+        android:text="이전" />
+    <android.widget.Button
+        android:id="@+id/nextButton"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:layout_below="@id/gifImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_toEndOf="@id/stopButton"
+        android:layout_alignTop="@id/stopButton"
+        android:background="@drawable/round_button"
+        android:layout_marginStart="20dp"
+        android:text="다음" />
+    <android.widget.Button
+        android:id="@+id/stopButton"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/gifImageView"
+        android:background="@drawable/round_button"
+        android:text="정지" />
+
+
+    <TextView
+        android:id="@+id/timerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@id/nextButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timerTextView"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="10dp" />
+
+</RelativeLayout>
