@@ -14,7 +14,7 @@
 <h2 id="3">앱 실행 이미지</h2>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/0ca846e0-6a8f-4a1b-be6d-7b627bcea2bb">
+<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/13158aa8-a4a5-4716-8488-28641c703c8b">
 <img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/84080385-521d-4e10-8e44-742b43984b0a">
 </p>
 
